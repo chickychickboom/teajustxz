@@ -1,0 +1,2 @@
+# teajustxz
+testnet  tea
